@@ -1,6 +1,6 @@
 # Introduction
 
-The Streamlit WebCam App is an interactive application designed to capture video from a webcam, process the video stream in real-time to detect hand gestures, and use these gestures to draw on a virtual canvas.
+Virtual Interactive Board is an interactive application designed to capture video from a webcam, process the video stream in real-time to detect hand gestures, and use these gestures to draw on a virtual canvas.
 
 ## Key Features
 * Real-Time Video Capture: Utilizes the OpenCV library to capture live video feed from the user's webcam, allowing for the real-time interaction and processing of video frames.
